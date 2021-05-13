@@ -31,3 +31,4 @@ C:\Users\Дем`ян\source\repos\AspCorePractice\AspCorePractice\obj\Debug\netc
 C:\Users\Дем`ян\source\repos\AspCorePractice\AspCorePractice\obj\Debug\netcoreapp2.1\AspCorePractice.pdb
 C:\Users\Дем`ян\source\repos\AspCorePractice\AspCorePractice\obj\Debug\netcoreapp2.1\AspCorePractice.csproj.CopyComplete
 C:\Users\Дем`ян\source\repos\AspCorePractice\AspCorePractice\obj\Debug\netcoreapp2.1\Razor\Views\Jump\Index.g.cshtml.cs
+C:\Users\Дем`ян\source\repos\AspCorePractice\AspCorePractice\obj\Debug\netcoreapp2.1\Razor\Views\TestBranch\Index.g.cshtml.cs
